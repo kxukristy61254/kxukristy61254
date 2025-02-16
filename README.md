@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm kxukristy61254
 
-<!--
-**kxukristy61254/kxukristy61254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏹 🎳 🎣 🌍 A fan of project management 🏹 🎳 🎣 🌍
 
-Here are some ideas to get you started:
+## About Me
+🏄 🥊 A lover of natural language processing 🏄 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥋 🎮 🚴 🥁 Ready to work on libraries 🥋 🎮 🚴 🥁
+
+### Fun Facts
+🎪 🥋 🥋 🏑 A freak in tech reviews 🎪 🥋 🥋 🏑
+
+---
+🎯 🎨 🌺 🎳 🏒 Thanks for visiting my profile! 🎬 🎵 🎽 🎾 🏏
